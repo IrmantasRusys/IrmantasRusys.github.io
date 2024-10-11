@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Whisper Theme</title>
+    <link>https://IrmantasRusys.github.io/posts/</link>
+    <description>Recent content in Posts on Hugo Whisper Theme</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Oct 2024 19:03:46 +0300</lastBuildDate>
+    <atom:link href="https://IrmantasRusys.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article125</title>
+      <link>https://IrmantasRusys.github.io/posts/article1/</link>
+      <pubDate>Thu, 10 Oct 2024 19:03:46 +0300</pubDate>
+      <guid>https://IrmantasRusys.github.io/posts/article1/</guid>
+      <description>&lt;h1 id=&#34;article-125&#34;&gt;Article 125&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;WOWOWOWOW.&lt;/strong&gt;&#xA;Not the best article ever made.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
