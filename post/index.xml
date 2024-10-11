@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Whisper Theme</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Hugo Whisper Theme</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Oct 2024 00:45:40 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Site with image</title>
+      <link>http://localhost:1313/post/post1/</link>
+      <pubDate>Sat, 12 Oct 2024 00:45:40 +0300</pubDate>
+      <guid>http://localhost:1313/post/post1/</guid>
+      <description>&lt;h1 id=&#34;sveiki&#34;&gt;Sveiki!&lt;/h1&gt;&#xA;&lt;p&gt;Štai nuotrauka tiesiai iš interneto:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/June_odd-eyed-cat.jpg/2560px-June_odd-eyed-cat.jpg&#34; alt=&#34;Nuotrauka iš interneto&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ir emoji: 😺&lt;/p&gt;&#xA;&lt;h2 id=&#34;kodo-blokas&#34;&gt;Kodo blokas&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
